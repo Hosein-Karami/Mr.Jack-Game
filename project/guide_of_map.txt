@@ -1,0 +1,45 @@
+**********************************************************************************************************
+*You should know something before start the game.                                                        *
+*Each symbol in the map has a unique meaning:                                                            * 
+*T = means that a tunnel exist in this section.                                                          * 
+*H = means that a house exist in this section.                                                           * 
+*L = means that this section can has a lamp.                                                             *
+*BL = means that this section has a tunel but tunnel was blocked.                                        * 
+*ON = means the lamp of this section is on.                                                              *
+*pay attention if a section is L(can has lamp),but does not ON,means this lamp is off.*                  *
+*E = means that this section is extra section and is not a real section.only for beautifully of map.     *
+*Ex = means that you can exit city from this home if it was not blocked.                                 *  
+*NO=means that this home is a exit_way but it was blocked.                                               *
+*                                                                                                        *  
+*                                                                                                        *
+*     ****     ****     ****                                                                             *
+*    *    *   *    *   *    *                                                                            * 
+*   *      * *      * *      *                                                                           *
+*  *    1   *    2   *    3   *                                                                          *
+*   *      * *      * *      *                                                                           *
+*    *    *   *    *   *    *                                                                            *
+*     ****     ****     ****                                                                             *
+*    *    *   *    *   *    *                                                                            *
+*   *      * *      * *      *                                                                           *
+*  *    4   *    5   *    6   *                                                                          *
+*   *      * *      * *      *                                                                           *
+*    *    *   *    *   *    *                                                                            *  
+*     ****     ****     ****                                                                             *
+*    *    *   *    *   *    *                                                                            *
+*   *      * *      * *      *                                                                           *
+*  *    7   *    8   *    9   *                                                                          *
+*   *      * *      * *      *                                                                           * 
+*    *    *   *    *   *    *                                                                            *
+*     ****     ****     ****                                                                             *
+*                                                                                                        * 
+*                                                                                                        *
+*pay attention. As you can see in the figure above.                                                      *
+*if you are in the 5,you can move to 1,2,3,7,8,9 but you can not move to 4 and 6.                        *
+*also pay attention if a lamp is on in the 5->the 1,2,3,7,8,9 are on but 4 and 6 are off.                *
+*                                                                                                        * 
+*another thing that you should know is about row and coloumn.                                            *
+*for example the 8 is in the home that coloumn is 2 and row is 3.                                        *
+*or 7 is in the home that coloumn is 1 and row is 3.                                                     *        
+*                                                                                                        *
+*Take notice that If player_Jack takes someone other than Jack out of town, the detective wins.          *                                              
+**********************************************************************************************************

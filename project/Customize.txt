@@ -1,0 +1,17 @@
+************************************************************************************************************************************
+*If you want to customize your map please pay attention.                                                                           *
+*for this work you should make a 9*13 rectangle of numbers like below rectangle:                                                   *
+* 6 5 5 5 5 4 3 5 5 5 5 5 6                                                                                                        *
+* 5 3 5 5 3 2 3 3 5 5 5 4 5                                                                                                        *
+* 5 3 2 3 3 1 3 1 3 3 3 2 3                                                                                                        *
+* 4 1 3 1 3 4 3 2 3 1 3 3 3                                                                                                        *
+* 3 1 1 3 3 1 3 1 3 3 3 1 3                                                                                                        *
+* 3 3 3 1 3 2 3 4 3 1 1 1 4                                                                                                        *
+* 3 2 3 3 3 1 3 1 3 3 3 3 3                                                                                                        *
+* 3 3 4 5 3 3 3 2 3 1 2 3 5                                                                                                        *
+* 6 5 5 5 5 5 5 4 3 5 5 5 6                                                                                                        *
+*1 for houses,2 for the lamps locations,3 for empty sections,4 for tunnels,5 for extra sections and 6 for city exit.               *
+*means you should press your wish number then press space and press the next number and when inputs 13 numbers press enter.        *
+*you should do this work 9 time.                                                                                                   *
+*WE WISH YOU MAKE THE BEST MAP :)                                                                                                  *
+************************************************************************************************************************************

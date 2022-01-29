@@ -1,0 +1,10 @@
+*****************************************************************************************************************************
+*Now you should customize the place of the 8 characters and lamps and tunnel blockers and city blockers.                    *
+*For this work please first enter the symbol of your thing:                                                                 *
+*1 for Sergent Goodley,2 for Inspecteur Lestrade,3 for William Gull,4 for Sherlock Holmes,5 for Jeremy Bert                 *
+*6 for John Watson,7 for Miss Stealthy,8 for John Smith,9 for Lamps,10 for Tunnel blockers and 11 for City blockers.        *
+*then enter the row of the character and at final enter the coloumn of the character.after each character and things        *
+*that you enter press enter and do this work as much as you like.for example:                                               *
+*3 6 9 = means that William gual in the house that row is six and coloumn is nine.                                          *
+*10 5 4 = means that a tunnel blocker in house that row is five and coloumn is four.                                        *
+*****************************************************************************************************************************
