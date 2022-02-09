@@ -81,13 +81,12 @@ int start(int computer){
             fclose(edit);
         }
         system("cls");
+        printf("\n\nYour informations were changed.Please press enter : ");
     }
-    else if(answer==2){
+    else if(answer==2)
         return 0;
-    }
-    else if(answer==3){
+    else if(answer==3)
         return 1;
-    }
     else if(answer==4){
         system("cls");
         FILE *rahnama= fopen("Customize.txt","r");
@@ -200,6 +199,7 @@ int start(int computer){
             fprintf(delete, "%d", 0);
             fclose(delete);
         }
+        return -1;
     }
     else if(answer==7){
         system("cls");
